@@ -9,12 +9,12 @@ import 'package:remis/utils/wallet/wallettransaction.dart';
 
 
 class HttpRequestModel {
-  static const baseRemisUrl = "https://api.epump.com.ng/";
-  static const baseWalletUrl = baseRemisUrl + "Wallet/";
-  static const baseAccountUrl = baseRemisUrl + "Account/";
-  static const baseBranchUrl = baseRemisUrl + "Branch/";
-  static const baseOrderUrl = baseRemisUrl + "Order/";
-  static const baseBillPaymentUrl = baseRemisUrl + "Bill_Payment/";
+  static const baseRemisUrl = "https://api.******.com.ng/";
+  static const baseWalletUrl = baseRemisUrl + ".******./";
+  static const baseAccountUrl = baseRemisUrl + ".******./";
+  static const baseBranchUrl = baseRemisUrl + ".******./";
+  static const baseOrderUrl = baseRemisUrl + ".******./";
+  static const baseBillPaymentUrl = baseRemisUrl + ".******./";
 
 
   static String token = "";
